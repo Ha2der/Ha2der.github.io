@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ha2der.github.io</id>
+    <title>Harder&apos;s Blog</title>
+    <updated>2024-06-12T12:14:27.296Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://ha2der.github.io"/>
+    <link rel="self" href="http://ha2der.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>http://ha2der.github.io/images/avatar.png</logo>
+    <icon>http://ha2der.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Harder&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Mysql-Jdbc Deserialization]]></title>
+        <id>http://ha2der.github.io/Y2M8R8l_Z/</id>
+        <link href="http://ha2der.github.io/Y2M8R8l_Z/">
+        </link>
+        <updated>2024-06-10T07:06:12.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jndi 学习 （占坑]]></title>
+        <id>http://ha2der.github.io/na_0KxqNO/</id>
+        <link href="http://ha2der.github.io/na_0KxqNO/">
+        </link>
+        <updated>2024-06-06T07:15:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spel 表达式注入（占坑]]></title>
+        <id>http://ha2der.github.io/pbGl1TQ5I/</id>
+        <link href="http://ha2der.github.io/pbGl1TQ5I/">
+        </link>
+        <updated>2024-06-06T07:15:09.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OGNL注入入门（未完 占坑]]></title>
+        <id>http://ha2der.github.io/PtXpWnr2F/</id>
+        <link href="http://ha2der.github.io/PtXpWnr2F/">
+        </link>
+        <updated>2024-06-06T07:08:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cc链]]></title>
+        <id>http://ha2der.github.io/zAYz8qw5K/</id>
+        <link href="http://ha2der.github.io/zAYz8qw5K/">
+        </link>
+        <updated>2024-06-06T07:02:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java反序列化 Basic]]></title>
+        <id>http://ha2der.github.io/3yO831bMs/</id>
+        <link href="http://ha2der.github.io/3yO831bMs/">
+        </link>
+        <updated>2024-06-06T07:00:31.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MiniL-CTF writeup]]></title>
+        <id>http://ha2der.github.io/QZ0KPqHqJ/</id>
+        <link href="http://ha2der.github.io/QZ0KPqHqJ/">
+        </link>
+        <updated>2024-05-15T14:09:37.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[春秋云镜-Hospital]]></title>
+        <id>http://ha2der.github.io/zA5-ZSHvV/</id>
+        <link href="http://ha2der.github.io/zA5-ZSHvV/">
+        </link>
+        <updated>2024-05-15T11:09:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NKCTF 2024]]></title>
+        <id>http://ha2der.github.io/VHEBLAfqJ/</id>
+        <link href="http://ha2der.github.io/VHEBLAfqJ/">
+        </link>
+        <updated>2024-05-15T09:08:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[buuoj-web2]]></title>
+        <id>http://ha2der.github.io/fJPbRbK67/</id>
+        <link href="http://ha2der.github.io/fJPbRbK67/">
+        </link>
+        <updated>2024-05-15T09:05:01.000Z</updated>
+    </entry>
+</feed>
