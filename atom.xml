@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ha2der.github.io</id>
+    <title>Harder&apos;s Blog</title>
+    <updated>2025-04-07T14:08:25.637Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://ha2der.github.io"/>
+    <link rel="self" href="http://ha2der.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>http://ha2der.github.io/images/avatar.png</logo>
+    <icon>http://ha2der.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Harder&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[春秋云镜-MagicRelay]]></title>
+        <id>http://ha2der.github.io/T7av3TKsPr/</id>
+        <link href="http://ha2der.github.io/T7av3TKsPr/">
+        </link>
+        <updated>2025-04-07T14:05:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2025-2221分析复现]]></title>
+        <id>http://ha2der.github.io/vhMG6z7O1f/</id>
+        <link href="http://ha2der.github.io/vhMG6z7O1f/">
+        </link>
+        <updated>2025-03-31T14:00:52.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[java反序列化-二次反序列化]]></title>
+        <id>http://ha2der.github.io/cGpSusBiiz/</id>
+        <link href="http://ha2der.github.io/cGpSusBiiz/">
+        </link>
+        <updated>2025-03-20T14:31:30.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java-ROME反序列化链]]></title>
+        <id>http://ha2der.github.io/0zouBo58XB/</id>
+        <link href="http://ha2der.github.io/0zouBo58XB/">
+        </link>
+        <updated>2025-03-18T14:29:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈Java反序列化Fastjson&bypass]]></title>
+        <id>http://ha2der.github.io/nLo7ZHLXcO/</id>
+        <link href="http://ha2der.github.io/nLo7ZHLXcO/">
+        </link>
+        <updated>2025-02-24T13:49:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高版本jdk浅谈]]></title>
+        <id>http://ha2der.github.io/Rzz1UGpbGc/</id>
+        <link href="http://ha2der.github.io/Rzz1UGpbGc/">
+        </link>
+        <updated>2025-02-20T13:48:34.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高版本jdk下的jndi利用]]></title>
+        <id>http://ha2der.github.io/tk_eVYmKuc/</id>
+        <link href="http://ha2der.github.io/tk_eVYmKuc/">
+        </link>
+        <updated>2025-02-18T13:44:57.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[java反序列化JNDI 学习]]></title>
+        <id>http://ha2der.github.io/wF4NO1s3Xh/</id>
+        <link href="http://ha2der.github.io/wF4NO1s3Xh/">
+        </link>
+        <updated>2025-02-17T13:46:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAVA反序列化RMI专题2]]></title>
+        <id>http://ha2der.github.io/cdA7YCjmHK/</id>
+        <link href="http://ha2der.github.io/cdA7YCjmHK/">
+        </link>
+        <updated>2025-02-16T13:41:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAVA反序列化RMI专题1]]></title>
+        <id>http://ha2der.github.io/2Ac7Kf2Ccc/</id>
+        <link href="http://ha2der.github.io/2Ac7Kf2Ccc/">
+        </link>
+        <updated>2025-02-15T13:40:58.000Z</updated>
+    </entry>
+</feed>
